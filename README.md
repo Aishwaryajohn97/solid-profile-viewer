@@ -61,7 +61,7 @@ You can host this project using:
 Example live link:  
 
 
-https://your-username.github.io/solid-profile-viewer/
+https://solid-profile-viewer.netlify.app/
 
 
 ---
@@ -72,14 +72,6 @@ https://your-username.github.io/solid-profile-viewer/
 - Only machine-readable content (Turtle or JSON-LD) is parsed.
 - No authentication or private data handling is included.
 - Focus is on **frontend functionality**, clean code, and professional UI/UX.
-
----
-
-## Submission
-
-- Provide the **GitHub repository link** with all project files.
-- Provide a **live deployment link** for easy testing.
-- Ensure the project is **fully responsive** and accessible.
 
 ---
 

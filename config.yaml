@@ -1,0 +1,10 @@
+# Configuration for Solid WebID Profile Viewer
+
+# Default WebID to redirect to if none provided
+defaultWebID: "https://timbl.solidcommunity.net/profile/card#me"
+
+# Theme for the app: "light" or "dark"
+theme: "light"
+
+# Maximum number of contacts to display
+maxContactsToShow: 50
